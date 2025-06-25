@@ -25,20 +25,20 @@ OpenAI API – Chat Intelligence
 React Icons – Iconography
 
 SetUp Instruction 
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/abhishekkumar74/ecomerce-chatbot
 
-# 2. Navigate to project folder
+ 2. Navigate to project folder
 cd ecomerce-chatbot
 
-# 3. Install dependencies
+ 3. Install dependencies
 npm install
 
-# 4. Add your OpenAI API Key
-# Create a .env file and add:
+ 4. Add your OpenAI API Key
+ Create a .env file and add:
 REACT_APP_OPENAI_API_KEY=your_api_key_here
 
-# 5. Run the development server
+ 5. Run the development server
 npm start
 
 📁 Folder Structure
